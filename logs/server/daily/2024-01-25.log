@@ -1,0 +1,56 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T10:26:53.961Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T10:26:53.996Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected string in JSON at position 26
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\91939\work_space\flowTest-project\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/newuser1 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2024-01-25T10:28:51.645Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected string in JSON at position 26
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\91939\work_space\flowTest-project\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/newuser1 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-25T10:29:32.741Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected string in JSON at position 26
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\91939\work_space\flowTest-project\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/newuser1 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-25T10:29:54.997Z"}
