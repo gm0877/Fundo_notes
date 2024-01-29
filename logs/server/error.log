@@ -829,3 +829,132 @@ error:
     method - POST 
     IP - ::1
    {"timestamp":"2024-01-25T10:29:54.997Z"}
+error: 
+    status - 500 
+    message - ValidationError: "name" length must be at least 10 characters long 
+    url - /api/v1/newuser1 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-27T09:51:15.084Z"}
+error: 
+    status - 500 
+    message - ValidationError: "name" length must be at least 10 characters long 
+    url - /api/v1/newuser1/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T06:00:54.586Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/newuser1/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T06:52:03.277Z"}
+error: 
+    status - 500 
+    message - Error: User with the same email already exists
+    at _callee2$ (C:\Users\91939\work_space\flowTest-project\src\services\/user.service.js:18:11)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/newuser1/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T06:52:16.020Z"}
+error: 
+    status - 500 
+    message - Error: User with the same email already exists
+    at _callee2$ (C:\Users\91939\work_space\flowTest-project\src\services\/user.service.js:18:11)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/newuser1/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T06:52:24.380Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/newuser1/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T06:57:38.140Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected string in JSON at position 35
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\91939\work_space\flowTest-project\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/newuser1/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T06:58:17.176Z"}
+error: 
+    status - 500 
+    message - Error: User with the same email already exists
+    at _callee2$ (C:\Users\91939\work_space\flowTest-project\src\services\/user.service.js:18:11)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/newuser1/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T06:58:25.174Z"}
+error: 
+    status - 500 
+    message - Error: User with the same email already exists
+    at _callee2$ (C:\Users\91939\work_space\flowTest-project\src\services\/user.service.js:18:11)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/newuser1/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T06:58:30.947Z"}
+error: 
+    status - 500 
+    message - Error: User with the same email already exists
+    at _callee2$ (C:\Users\91939\work_space\flowTest-project\src\services\/user.service.js:18:11)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/newuser1/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T06:58:32.420Z"}
+error: 
+    status - 500 
+    message - Error: Invalid password
+    at _callee3$ (C:\Users\91939\work_space\flowTest-project\src\services\/user.service.js:41:11)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/user/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T07:03:03.273Z"}

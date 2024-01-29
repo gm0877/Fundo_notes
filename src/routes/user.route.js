@@ -21,3 +21,6 @@ router.post('/registration', newUserValidator, userController.newUser);
 // router.delete('/:_id', userController.deleteUser);
 
 export default router;
+
+
+

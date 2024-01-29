@@ -19,6 +19,16 @@
             "date": 1706178413898,
             "name": "logs\\server\\daily\\2024-01-25.log",
             "hash": "add3cb9b587c713c53cde4b3d572a8702cf28b3eb279d2aba3e9359699c052df"
+        },
+        {
+            "date": 1706336714298,
+            "name": "logs\\server\\daily\\2024-01-27.log",
+            "hash": "c25db86c2d6009cc2e71ce491ee848273e00344d64a10a87c4fb2be8d092321b"
+        },
+        {
+            "date": 1706507228149,
+            "name": "logs\\server\\daily\\2024-01-29.log",
+            "hash": "05b45d08e72573a89d52bb7a0b9721116c3173700c38895779488eedca227910"
         }
     ],
     "hashType": "sha256"

@@ -1,0 +1,13 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-27T06:25:14.365Z"}
+info: Connected to the database. {"timestamp":"2024-01-27T06:25:14.391Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-27T08:44:34.705Z"}
+info: Connected to the database. {"timestamp":"2024-01-27T08:44:34.736Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-27T09:49:08.506Z"}
+info: Connected to the database. {"timestamp":"2024-01-27T09:49:08.544Z"}
+error: 
+    status - 500 
+    message - ValidationError: "name" length must be at least 10 characters long 
+    url - /api/v1/newuser1 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-27T09:51:15.084Z"}

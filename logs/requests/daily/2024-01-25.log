@@ -4,3 +4,7 @@ info: ::1 - - [25/Jan/2024:10:29:39 +0000] "POST /api/v1/newuser1 HTTP/1.1" 404 
 
 info: ::1 - - [25/Jan/2024:10:30:37 +0000] "POST /api/v1/newuser1 HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
 
+info: ::1 - - [25/Jan/2024:10:31:16 +0000] "POST /api/v1/newuser1 HTTP/1.1" 201 247 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [25/Jan/2024:10:31:31 +0000] "GET /api/v1/newuser1/65b238749ae2c22f18a9ba19 HTTP/1.1" 200 247 "-" "PostmanRuntime/7.36.1"
+

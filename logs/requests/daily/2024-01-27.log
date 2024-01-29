@@ -1,0 +1,10 @@
+info: ::1 - - [27/Jan/2024:06:26:41 +0000] "GET /api/v1/newuser1 HTTP/1.1" 200 9 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [27/Jan/2024:06:26:50 +0000] "POST /api/v1/newuser1 HTTP/1.1" 201 247 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [27/Jan/2024:09:51:15 +0000] "POST /api/v1/newuser1 HTTP/1.1" 500 86 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [27/Jan/2024:09:51:37 +0000] "POST /api/v1/newuser1 HTTP/1.1" 201 255 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [27/Jan/2024:09:51:56 +0000] "GET /api/v1/newuser1/65b4d2298762cd39e0f8530a HTTP/1.1" 200 255 "-" "PostmanRuntime/7.36.1"
+

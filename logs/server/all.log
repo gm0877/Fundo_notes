@@ -917,3 +917,256 @@ error:
     method - POST 
     IP - ::1
    {"timestamp":"2024-01-25T10:29:54.997Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T10:31:10.897Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T10:31:10.914Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-25T10:55:13.783Z"}
+info: Connected to the database. {"timestamp":"2024-01-25T10:55:13.849Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-27T06:25:14.365Z"}
+info: Connected to the database. {"timestamp":"2024-01-27T06:25:14.391Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-27T08:44:34.705Z"}
+info: Connected to the database. {"timestamp":"2024-01-27T08:44:34.736Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-27T09:49:08.506Z"}
+info: Connected to the database. {"timestamp":"2024-01-27T09:49:08.544Z"}
+error: 
+    status - 500 
+    message - ValidationError: "name" length must be at least 10 characters long 
+    url - /api/v1/newuser1 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-27T09:51:15.084Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T05:47:08.204Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T05:47:08.221Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T05:47:48.143Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T05:47:48.164Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T05:47:50.775Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T05:47:50.793Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T05:48:20.808Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T05:48:20.825Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T05:48:59.969Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T05:48:59.984Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T05:49:15.279Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T05:49:15.295Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T05:49:20.578Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T05:49:20.593Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T05:49:27.483Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T05:49:27.505Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T05:51:29.975Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T05:51:29.992Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T05:52:19.529Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T05:52:19.545Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T05:55:02.244Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T05:55:02.272Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T05:58:53.845Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T05:58:53.860Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T05:59:25.128Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T05:59:25.143Z"}
+error: 
+    status - 500 
+    message - ValidationError: "name" length must be at least 10 characters long 
+    url - /api/v1/newuser1/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T06:00:54.586Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T06:01:10.914Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T06:01:10.931Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T06:02:22.977Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T06:02:22.996Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T06:03:11.418Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T06:03:11.435Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T06:03:30.055Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T06:03:30.071Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T06:03:37.394Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T06:03:37.413Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T06:05:33.010Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T06:05:33.038Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T06:06:00.745Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T06:06:00.763Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T06:06:17.970Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T06:06:17.988Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T06:06:35.972Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T06:06:35.990Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T06:11:04.152Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T06:11:04.172Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T06:11:28.024Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T06:11:28.042Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T06:11:30.751Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T06:11:30.769Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T06:14:46.735Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T06:14:46.751Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T06:20:23.279Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T06:20:23.299Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T06:24:20.840Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T06:24:20.856Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T06:24:28.393Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T06:24:28.412Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T06:24:31.449Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T06:24:31.465Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T06:24:54.031Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T06:24:54.047Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T06:29:50.673Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T06:29:50.691Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T06:29:56.847Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T06:29:56.862Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T06:30:38.234Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T06:30:38.250Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T06:31:19.936Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T06:31:19.953Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T06:31:27.516Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T06:31:27.535Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T06:31:30.241Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T06:31:30.256Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T06:31:34.853Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T06:31:34.873Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T06:32:55.200Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T06:32:55.222Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T06:51:54.480Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T06:51:54.497Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/newuser1/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T06:52:03.277Z"}
+error: 
+    status - 500 
+    message - Error: User with the same email already exists
+    at _callee2$ (C:\Users\91939\work_space\flowTest-project\src\services\/user.service.js:18:11)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/newuser1/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T06:52:16.020Z"}
+error: 
+    status - 500 
+    message - Error: User with the same email already exists
+    at _callee2$ (C:\Users\91939\work_space\flowTest-project\src\services\/user.service.js:18:11)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/newuser1/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T06:52:24.380Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T06:54:37.796Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T06:54:37.811Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T06:55:33.569Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T06:55:33.585Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T06:55:50.736Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T06:55:50.751Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T06:55:59.604Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T06:55:59.620Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T06:56:37.700Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T06:56:37.716Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T06:56:40.494Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T06:56:40.513Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T06:56:51.453Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T06:56:51.474Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T06:57:30.687Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T06:57:30.703Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/newuser1/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T06:57:38.140Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected string in JSON at position 35
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\91939\work_space\flowTest-project\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/newuser1/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T06:58:17.176Z"}
+error: 
+    status - 500 
+    message - Error: User with the same email already exists
+    at _callee2$ (C:\Users\91939\work_space\flowTest-project\src\services\/user.service.js:18:11)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/newuser1/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T06:58:25.174Z"}
+error: 
+    status - 500 
+    message - Error: User with the same email already exists
+    at _callee2$ (C:\Users\91939\work_space\flowTest-project\src\services\/user.service.js:18:11)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/newuser1/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T06:58:30.947Z"}
+error: 
+    status - 500 
+    message - Error: User with the same email already exists
+    at _callee2$ (C:\Users\91939\work_space\flowTest-project\src\services\/user.service.js:18:11)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/newuser1/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T06:58:32.420Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T06:59:50.716Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T06:59:50.732Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T06:59:53.217Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T06:59:53.234Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T06:59:56.684Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T06:59:56.701Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T06:59:59.543Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T06:59:59.559Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T07:02:59.162Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T07:02:59.191Z"}
+error: 
+    status - 500 
+    message - Error: Invalid password
+    at _callee3$ (C:\Users\91939\work_space\flowTest-project\src\services\/user.service.js:41:11)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/user/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T07:03:03.273Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T07:16:02.037Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T07:16:02.053Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T07:16:32.996Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T07:16:33.016Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T07:16:39.272Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T07:16:39.302Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T07:16:47.533Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T07:16:47.566Z"}
