@@ -728,3 +728,13 @@ info: ::1 - - [29/Jan/2024:07:03:03 +0000] "POST /api/v1/user/login HTTP/1.1" 50
 
 info: ::1 - - [29/Jan/2024:07:03:08 +0000] "POST /api/v1/user/login HTTP/1.1" 200 294 "-" "PostmanRuntime/7.36.1"
 
+info: ::1 - - [29/Jan/2024:08:40:19 +0000] "POST /api/v1/user/login HTTP/1.1" 200 294 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [29/Jan/2024:08:41:54 +0000] "POST /api/v1/user/login HTTP/1.1" 200 294 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [29/Jan/2024:08:57:32 +0000] "POST /api/v1/user/login HTTP/1.1" 200 294 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [29/Jan/2024:09:01:22 +0000] "POST /api/v1/user/registration HTTP/1.1" 201 50 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [29/Jan/2024:09:01:39 +0000] "POST /api/v1/user/login HTTP/1.1" 200 322 "-" "PostmanRuntime/7.36.1"
+

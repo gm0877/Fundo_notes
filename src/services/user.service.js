@@ -1,6 +1,7 @@
 import bcrypt from 'bcrypt';
 import User from '../models/user.model';
 
+
 // get all users
 export const getAllUsers = async () => {
   const data = await User.find();
@@ -10,7 +11,7 @@ export const getAllUsers = async () => {
 
 // create new user with hashed password
 export const newUser = async (body) => {
-  const { email, password, firstName } = body;
+  const { email, password, firstName,lastName } = body;
 
   // Check if the user with the same email already exists
   const existingUser = await User.findOne({ email });
@@ -22,7 +23,7 @@ export const newUser = async (body) => {
   const hashedPassword = await bcrypt.hash(password, 10); // Hashing password
 
   // Create a new user with hashed password
-  const newUser = await User.create({ email, password: hashedPassword, firstName});
+  const newUser = await User.create({ email, password: hashedPassword, firstName,lastName});
 
   // Save the new user to the database
   const data = await newUser.save();
@@ -68,4 +69,5 @@ export const getUser = async (id) => {
   const data = await User.findById(id);
   return data;
 };
+
 
