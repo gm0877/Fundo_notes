@@ -8,8 +8,8 @@ export const newNote = async (body) => {
     return data;
   };
 
-// login
-export const loginNote = async (body) => {
+// read
+export const readNote = async (body) => {
   // Finding the note with the given title
   const note = await Note.findOne({ title: body.title  });
   return note;
@@ -23,7 +23,6 @@ export const updateNote = async (body) => {
   };
 
   //delete
-  // delete note
 export const deleteNote = async (body) => {
     // Finding the note with the given title and deleting it
     const delnote = await Note.findOneAndDelete({ title:body.title});

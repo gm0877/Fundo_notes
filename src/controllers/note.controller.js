@@ -26,9 +26,9 @@ import * as NoteService from '../services/note.service';
  * @param {object} res - response object
  * @param {Function} next
  */
-export const loginNote = async (req, res, next) => {
+export const readNote = async (req, res, next) => {
   try {
-    const Note = await NoteService.loginNote(req.body);
+    const Note = await NoteService.readNote(req.body);
     res.status(HttpStatus.OK).json({
       code: HttpStatus.OK,
       data: Note,

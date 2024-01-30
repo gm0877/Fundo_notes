@@ -12,7 +12,7 @@ const router = express.Router();
 router.post('', newNoteValidator, NoteController.newNote);
 
  //route to get a single Note by their Note id
- router.post('/login', NoteController.loginNote);
+ router.post('/read', NoteController.readNote);
 
 // //route to update a single Note by their Note id
 router.patch('/update', NoteController.updateNote);
