@@ -264,3 +264,252 @@ info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T0
 info: Connected to the database. {"timestamp":"2024-01-29T08:59:20.180Z"}
 info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T09:00:03.451Z"}
 info: Connected to the database. {"timestamp":"2024-01-29T09:00:03.499Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T09:02:24.987Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T09:02:25.024Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T09:15:59.714Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T09:15:59.747Z"}
+error: 
+    status - 500 
+    message - Error: User not found
+    at _callee3$ (C:\Users\91939\work_space\flowTest-project\src\services\/user.service.js:39:11)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/user/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T09:36:33.768Z"}
+error: 
+    status - 500 
+    message - Error: Invalid password
+    at _callee3$ (C:\Users\91939\work_space\flowTest-project\src\services\/user.service.js:43:11)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/user/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T09:36:46.825Z"}
+error: 
+    status - 500 
+    message - Error: data and hash arguments required
+    at Object.compare (C:\Users\91939\work_space\flowTest-project\node_modules\bcrypt\bcrypt.js:208:17)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\bcrypt\promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (C:\Users\91939\work_space\flowTest-project\node_modules\bcrypt\promises.js:20:12)
+    at Object.compare (C:\Users\91939\work_space\flowTest-project\node_modules\bcrypt\bcrypt.js:204:25)
+    at _callee3$ (C:\Users\91939\work_space\flowTest-project\src\services\/user.service.js:41:40)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/user/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T09:37:00.864Z"}
+error: 
+    status - 500 
+    message - Error: data and hash arguments required
+    at Object.compare (C:\Users\91939\work_space\flowTest-project\node_modules\bcrypt\bcrypt.js:208:17)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\bcrypt\promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (C:\Users\91939\work_space\flowTest-project\node_modules\bcrypt\promises.js:20:12)
+    at Object.compare (C:\Users\91939\work_space\flowTest-project\node_modules\bcrypt\bcrypt.js:204:25)
+    at _callee3$ (C:\Users\91939\work_space\flowTest-project\src\services\/user.service.js:41:40)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/user/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T10:53:50.376Z"}
+error: 
+    status - 500 
+    message - Error: Invalid password
+    at _callee3$ (C:\Users\91939\work_space\flowTest-project\src\services\/user.service.js:43:11)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/user/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T10:53:55.179Z"}
+error: 
+    status - 500 
+    message - Error: Invalid password
+    at _callee3$ (C:\Users\91939\work_space\flowTest-project\src\services\/user.service.js:43:11)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/user/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T10:54:03.267Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T11:51:41.808Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T11:51:41.827Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T11:52:58.762Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T11:52:58.780Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T11:53:03.180Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T11:53:03.200Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T11:53:07.259Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T11:53:07.282Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T11:53:14.898Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T11:53:14.919Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T11:57:25.248Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T11:57:25.265Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T11:57:49.846Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T11:57:49.866Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T11:58:13.326Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T11:58:13.342Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T11:58:42.447Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T11:58:42.463Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T11:59:12.871Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T11:59:12.887Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T12:12:35.884Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T12:12:35.913Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T12:13:17.082Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T12:13:17.098Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T12:21:50.453Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T12:21:50.470Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T12:22:28.407Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T12:22:28.424Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T12:23:25.848Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T12:23:25.866Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T12:23:30.953Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T12:23:30.969Z"}
+error: 
+    status - 500 
+    message - Error: data and hash arguments required
+    at Object.compare (C:\Users\91939\work_space\flowTest-project\node_modules\bcrypt\bcrypt.js:208:17)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\bcrypt\promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (C:\Users\91939\work_space\flowTest-project\node_modules\bcrypt\promises.js:20:12)
+    at Object.compare (C:\Users\91939\work_space\flowTest-project\node_modules\bcrypt\bcrypt.js:204:25)
+    at _callee3$ (C:\Users\91939\work_space\flowTest-project\src\services\/user.service.js:43:40)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/user/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T12:24:52.854Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/user/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T12:25:07.210Z"}
+error: 
+    status - 500 
+    message - Error: data and hash arguments required
+    at Object.compare (C:\Users\91939\work_space\flowTest-project\node_modules\bcrypt\bcrypt.js:208:17)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\bcrypt\promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (C:\Users\91939\work_space\flowTest-project\node_modules\bcrypt\promises.js:20:12)
+    at Object.compare (C:\Users\91939\work_space\flowTest-project\node_modules\bcrypt\bcrypt.js:204:25)
+    at _callee3$ (C:\Users\91939\work_space\flowTest-project\src\services\/user.service.js:43:40)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/user/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T12:25:16.156Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T12:25:50.265Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T12:25:50.285Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T12:27:16.719Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T12:27:16.735Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T12:27:23.620Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T12:27:23.648Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T12:27:26.809Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T12:27:26.825Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T12:27:37.019Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T12:27:37.034Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T12:28:19.548Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T12:28:19.572Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T12:28:23.902Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T12:28:23.925Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T12:28:26.765Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T12:28:26.789Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T12:29:55.606Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T12:29:55.623Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T12:30:07.488Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T12:30:07.504Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T12:30:09.872Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T12:30:09.898Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T12:30:13.706Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T12:30:13.729Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T12:30:17.061Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T12:30:17.101Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T12:30:20.533Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T12:30:20.549Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T12:30:29.210Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T12:30:29.233Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T12:30:33.154Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T12:30:33.175Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T12:30:37.427Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T12:30:37.455Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T12:31:48.514Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T12:31:48.530Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T12:32:04.363Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T12:32:04.378Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T12:32:08.742Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T12:32:08.765Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T12:32:12.767Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T12:32:12.783Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T12:32:45.551Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T12:32:45.567Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T12:32:52.962Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T12:32:52.978Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T12:32:59.186Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T12:32:59.202Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T12:33:38.095Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T12:33:38.116Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T12:33:43.705Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T12:33:43.721Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T12:34:29.789Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T12:34:29.813Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-01-29T17:25:49.465Z"}
+info: Connected to the database. {"timestamp":"2024-01-29T17:25:49.498Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" length must be at least 7 characters long 
+    url - /api/v1/user/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T17:29:01.567Z"}
+error: 
+    status - 500 
+    message - Error: User with the same email already exists
+    at _callee2$ (C:\Users\91939\work_space\flowTest-project\src\services\/user.service.js:20:11)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/user/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T17:29:19.237Z"}

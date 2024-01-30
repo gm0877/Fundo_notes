@@ -958,3 +958,1008 @@ error:
     method - POST 
     IP - ::1
    {"timestamp":"2024-01-29T07:03:03.273Z"}
+error: 
+    status - 500 
+    message - Error: User not found
+    at _callee3$ (C:\Users\91939\work_space\flowTest-project\src\services\/user.service.js:39:11)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/user/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T09:36:33.768Z"}
+error: 
+    status - 500 
+    message - Error: Invalid password
+    at _callee3$ (C:\Users\91939\work_space\flowTest-project\src\services\/user.service.js:43:11)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/user/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T09:36:46.825Z"}
+error: 
+    status - 500 
+    message - Error: data and hash arguments required
+    at Object.compare (C:\Users\91939\work_space\flowTest-project\node_modules\bcrypt\bcrypt.js:208:17)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\bcrypt\promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (C:\Users\91939\work_space\flowTest-project\node_modules\bcrypt\promises.js:20:12)
+    at Object.compare (C:\Users\91939\work_space\flowTest-project\node_modules\bcrypt\bcrypt.js:204:25)
+    at _callee3$ (C:\Users\91939\work_space\flowTest-project\src\services\/user.service.js:41:40)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/user/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T09:37:00.864Z"}
+error: 
+    status - 500 
+    message - Error: data and hash arguments required
+    at Object.compare (C:\Users\91939\work_space\flowTest-project\node_modules\bcrypt\bcrypt.js:208:17)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\bcrypt\promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (C:\Users\91939\work_space\flowTest-project\node_modules\bcrypt\promises.js:20:12)
+    at Object.compare (C:\Users\91939\work_space\flowTest-project\node_modules\bcrypt\bcrypt.js:204:25)
+    at _callee3$ (C:\Users\91939\work_space\flowTest-project\src\services\/user.service.js:41:40)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/user/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T10:53:50.376Z"}
+error: 
+    status - 500 
+    message - Error: Invalid password
+    at _callee3$ (C:\Users\91939\work_space\flowTest-project\src\services\/user.service.js:43:11)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/user/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T10:53:55.179Z"}
+error: 
+    status - 500 
+    message - Error: Invalid password
+    at _callee3$ (C:\Users\91939\work_space\flowTest-project\src\services\/user.service.js:43:11)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/user/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T10:54:03.267Z"}
+error: 
+    status - 500 
+    message - Error: data and hash arguments required
+    at Object.compare (C:\Users\91939\work_space\flowTest-project\node_modules\bcrypt\bcrypt.js:208:17)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\bcrypt\promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (C:\Users\91939\work_space\flowTest-project\node_modules\bcrypt\promises.js:20:12)
+    at Object.compare (C:\Users\91939\work_space\flowTest-project\node_modules\bcrypt\bcrypt.js:204:25)
+    at _callee3$ (C:\Users\91939\work_space\flowTest-project\src\services\/user.service.js:43:40)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/user/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T12:24:52.854Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/user/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T12:25:07.210Z"}
+error: 
+    status - 500 
+    message - Error: data and hash arguments required
+    at Object.compare (C:\Users\91939\work_space\flowTest-project\node_modules\bcrypt\bcrypt.js:208:17)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\bcrypt\promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (C:\Users\91939\work_space\flowTest-project\node_modules\bcrypt\promises.js:20:12)
+    at Object.compare (C:\Users\91939\work_space\flowTest-project\node_modules\bcrypt\bcrypt.js:204:25)
+    at _callee3$ (C:\Users\91939\work_space\flowTest-project\src\services\/user.service.js:43:40)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/user/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T12:25:16.156Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" length must be at least 7 characters long 
+    url - /api/v1/user/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T17:29:01.567Z"}
+error: 
+    status - 500 
+    message - Error: User with the same email already exists
+    at _callee2$ (C:\Users\91939\work_space\flowTest-project\src\services\/user.service.js:20:11)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/user/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-29T17:29:19.237Z"}
+error: 
+    status - 500 
+    message - Error: data and hash arguments required
+    at Object.compare (C:\Users\91939\work_space\flowTest-project\node_modules\bcrypt\bcrypt.js:208:17)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\bcrypt\promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (C:\Users\91939\work_space\flowTest-project\node_modules\bcrypt\promises.js:20:12)
+    at Object.compare (C:\Users\91939\work_space\flowTest-project\node_modules\bcrypt\bcrypt.js:204:25)
+    at _callee3$ (C:\Users\91939\work_space\flowTest-project\src\services\/user.service.js:43:40)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/note/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-30T06:24:16.843Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected string in JSON at position 58
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\91939\work_space\flowTest-project\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/note 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-30T06:31:42.617Z"}
+error: 
+    status - 500 
+    message - Error: data and hash arguments required
+    at Object.compare (C:\Users\91939\work_space\flowTest-project\node_modules\bcrypt\bcrypt.js:208:17)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\bcrypt\promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (C:\Users\91939\work_space\flowTest-project\node_modules\bcrypt\promises.js:20:12)
+    at Object.compare (C:\Users\91939\work_space\flowTest-project\node_modules\bcrypt\bcrypt.js:204:25)
+    at _callee3$ (C:\Users\91939\work_space\flowTest-project\src\services\/user.service.js:43:40)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/note/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-30T06:31:53.494Z"}
+error: 
+    status - 500 
+    message - ReferenceError: title is not defined
+    at _callee3$ (C:\Users\91939\work_space\flowTest-project\src\services\/note.service.js:21:55)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.updateNote (C:\Users\91939\work_space\flowTest-project\src\services\/note.service.js:19:24)
+    at _callee3$ (C:\Users\91939\work_space\flowTest-project\src\controllers\/note.controller.js:88:36)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at updateNote (C:\Users\91939\work_space\flowTest-project\src\controllers\/note.controller.js:86:24)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\91939\work_space\flowTest-project\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/notes/login 
+    method - PATCH 
+    IP - ::1
+   {"timestamp":"2024-01-30T06:53:41.635Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'title')
+    at _callee3$ (C:\Users\91939\work_space\flowTest-project\src\services\/note.service.js:21:60)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.updateNote (C:\Users\91939\work_space\flowTest-project\src\services\/note.service.js:19:24)
+    at _callee3$ (C:\Users\91939\work_space\flowTest-project\src\controllers\/note.controller.js:88:36)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at updateNote (C:\Users\91939\work_space\flowTest-project\src\controllers\/note.controller.js:86:24)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\91939\work_space\flowTest-project\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/notes/login 
+    method - PATCH 
+    IP - ::1
+   {"timestamp":"2024-01-30T06:55:05.251Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'title')
+    at _callee3$ (C:\Users\91939\work_space\flowTest-project\src\services\/note.service.js:21:59)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.updateNote (C:\Users\91939\work_space\flowTest-project\src\services\/note.service.js:19:24)
+    at _callee3$ (C:\Users\91939\work_space\flowTest-project\src\controllers\/note.controller.js:88:36)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at updateNote (C:\Users\91939\work_space\flowTest-project\src\controllers\/note.controller.js:86:24)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\91939\work_space\flowTest-project\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/notes/login 
+    method - PATCH 
+    IP - ::1
+   {"timestamp":"2024-01-30T06:56:00.542Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'title')
+    at _callee3$ (C:\Users\91939\work_space\flowTest-project\src\services\/note.service.js:21:59)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.updateNote (C:\Users\91939\work_space\flowTest-project\src\services\/note.service.js:19:24)
+    at _callee3$ (C:\Users\91939\work_space\flowTest-project\src\controllers\/note.controller.js:88:36)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at updateNote (C:\Users\91939\work_space\flowTest-project\src\controllers\/note.controller.js:86:24)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\91939\work_space\flowTest-project\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/notes/update 
+    method - PATCH 
+    IP - ::1
+   {"timestamp":"2024-01-30T06:58:01.895Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'title')
+    at _callee3$ (C:\Users\91939\work_space\flowTest-project\src\services\/note.service.js:21:60)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.updateNote (C:\Users\91939\work_space\flowTest-project\src\services\/note.service.js:19:24)
+    at _callee3$ (C:\Users\91939\work_space\flowTest-project\src\controllers\/note.controller.js:88:36)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at updateNote (C:\Users\91939\work_space\flowTest-project\src\controllers\/note.controller.js:86:24)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\91939\work_space\flowTest-project\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/notes/update 
+    method - PATCH 
+    IP - ::1
+   {"timestamp":"2024-01-30T07:01:33.747Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'title')
+    at _callee3$ (C:\Users\91939\work_space\flowTest-project\src\services\/note.service.js:21:60)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.updateNote (C:\Users\91939\work_space\flowTest-project\src\services\/note.service.js:19:24)
+    at _callee3$ (C:\Users\91939\work_space\flowTest-project\src\controllers\/note.controller.js:88:36)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at updateNote (C:\Users\91939\work_space\flowTest-project\src\controllers\/note.controller.js:86:24)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\91939\work_space\flowTest-project\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/notes/update 
+    method - PATCH 
+    IP - ::1
+   {"timestamp":"2024-01-30T07:03:08.427Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'title')
+    at _callee3$ (C:\Users\91939\work_space\flowTest-project\src\services\/note.service.js:21:60)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.updateNote (C:\Users\91939\work_space\flowTest-project\src\services\/note.service.js:19:24)
+    at _callee3$ (C:\Users\91939\work_space\flowTest-project\src\controllers\/note.controller.js:88:36)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at updateNote (C:\Users\91939\work_space\flowTest-project\src\controllers\/note.controller.js:86:24)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\91939\work_space\flowTest-project\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/notes/update 
+    method - PATCH 
+    IP - ::1
+   {"timestamp":"2024-01-30T07:03:27.484Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'title')
+    at _callee3$ (C:\Users\91939\work_space\flowTest-project\src\services\/note.service.js:21:60)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.updateNote (C:\Users\91939\work_space\flowTest-project\src\services\/note.service.js:19:24)
+    at _callee3$ (C:\Users\91939\work_space\flowTest-project\src\controllers\/note.controller.js:88:36)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at updateNote (C:\Users\91939\work_space\flowTest-project\src\controllers\/note.controller.js:86:24)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\91939\work_space\flowTest-project\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/notes/update 
+    method - PATCH 
+    IP - ::1
+   {"timestamp":"2024-01-30T07:03:28.978Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'title')
+    at _callee3$ (C:\Users\91939\work_space\flowTest-project\src\services\/note.service.js:21:60)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.updateNote (C:\Users\91939\work_space\flowTest-project\src\services\/note.service.js:19:24)
+    at _callee3$ (C:\Users\91939\work_space\flowTest-project\src\controllers\/note.controller.js:88:36)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at updateNote (C:\Users\91939\work_space\flowTest-project\src\controllers\/note.controller.js:86:24)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\91939\work_space\flowTest-project\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/notes/update 
+    method - PATCH 
+    IP - ::1
+   {"timestamp":"2024-01-30T07:03:30.136Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'title')
+    at _callee3$ (C:\Users\91939\work_space\flowTest-project\src\services\/note.service.js:21:60)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.updateNote (C:\Users\91939\work_space\flowTest-project\src\services\/note.service.js:19:24)
+    at _callee3$ (C:\Users\91939\work_space\flowTest-project\src\controllers\/note.controller.js:88:36)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at updateNote (C:\Users\91939\work_space\flowTest-project\src\controllers\/note.controller.js:86:24)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\91939\work_space\flowTest-project\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/notes/update 
+    method - PATCH 
+    IP - ::1
+   {"timestamp":"2024-01-30T07:03:56.993Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'title')
+    at _callee3$ (C:\Users\91939\work_space\flowTest-project\src\services\/note.service.js:21:60)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.updateNote (C:\Users\91939\work_space\flowTest-project\src\services\/note.service.js:19:24)
+    at _callee3$ (C:\Users\91939\work_space\flowTest-project\src\controllers\/note.controller.js:88:36)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at updateNote (C:\Users\91939\work_space\flowTest-project\src\controllers\/note.controller.js:86:24)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\91939\work_space\flowTest-project\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/notes/update 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-01-30T07:05:40.437Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'title')
+    at _callee3$ (C:\Users\91939\work_space\flowTest-project\src\services\/note.service.js:21:60)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.updateNote (C:\Users\91939\work_space\flowTest-project\src\services\/note.service.js:19:24)
+    at _callee3$ (C:\Users\91939\work_space\flowTest-project\src\controllers\/note.controller.js:88:36)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at updateNote (C:\Users\91939\work_space\flowTest-project\src\controllers\/note.controller.js:86:24)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\91939\work_space\flowTest-project\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/notes/update 
+    method - PATCH 
+    IP - ::1
+   {"timestamp":"2024-01-30T07:05:53.223Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to string failed for value "{ title: 'reading javascript in leetcode' }" (type Object) at path "title" for model "Note"
+    at model.Query.exec (C:\Users\91939\work_space\flowTest-project\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91939\work_space\flowTest-project\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/delete 
+    method - DELETE 
+    IP - ::1
+   {"timestamp":"2024-01-30T07:11:40.714Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to string failed for value "{
+  title: 'reading javascript in leetcode',
+  description: 'opening leet code and solving javascript problems by me this uyu yuy'
+}" (type Object) at path "title" for model "Note"
+    at model.Query.exec (C:\Users\91939\work_space\flowTest-project\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91939\work_space\flowTest-project\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/delete 
+    method - DELETE 
+    IP - ::1
+   {"timestamp":"2024-01-30T07:12:10.569Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to string failed for value "{
+  title: 'reading javascript in leetcode',
+  description: 'opening leet code and solving javascript problems by me this uyu yuy'
+}" (type Object) at path "title" for model "Note"
+    at model.Query.exec (C:\Users\91939\work_space\flowTest-project\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91939\work_space\flowTest-project\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/delete 
+    method - DELETE 
+    IP - ::1
+   {"timestamp":"2024-01-30T07:12:15.716Z"}

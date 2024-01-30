@@ -1,5 +1,6 @@
 import bcrypt from 'bcrypt';
 import User from '../models/user.model';
+import jwt from 'jsonwebtoken'; 
 
 
 // get all users
@@ -35,13 +36,16 @@ export const newUser = async (body) => {
 export const loginUser = async (email, password) => {
   const user = await User.findOne({ email });
   if (!user) {
+    
+
     throw new Error('User not found');
   }
   const isPasswordValid = await bcrypt.compare(password, user.password);
   if (!isPasswordValid) {
     throw new Error('Invalid password');
   }
-  return user;
+  var token = jwt.sign({ eamil: 'saigudi2002@gmail.com' }, 'shhhhh');
+  return token;
 };
 
 // update single user

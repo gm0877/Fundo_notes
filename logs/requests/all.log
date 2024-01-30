@@ -738,3 +738,205 @@ info: ::1 - - [29/Jan/2024:09:01:22 +0000] "POST /api/v1/user/registration HTTP/
 
 info: ::1 - - [29/Jan/2024:09:01:39 +0000] "POST /api/v1/user/login HTTP/1.1" 200 322 "-" "PostmanRuntime/7.36.1"
 
+info: ::1 - - [29/Jan/2024:09:16:12 +0000] "POST /api/v1/user/login HTTP/1.1" 200 322 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [29/Jan/2024:09:36:13 +0000] "POST /api/v1/user/login HTTP/1.1" 200 322 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [29/Jan/2024:09:36:33 +0000] "POST /api/v1/user/login HTTP/1.1" 500 49 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [29/Jan/2024:09:36:46 +0000] "POST /api/v1/user/login HTTP/1.1" 500 51 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [29/Jan/2024:09:37:00 +0000] "POST /api/v1/user/login HTTP/1.1" 500 67 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [29/Jan/2024:10:53:50 +0000] "POST /api/v1/user/login HTTP/1.1" 500 67 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [29/Jan/2024:10:53:55 +0000] "POST /api/v1/user/login HTTP/1.1" 500 51 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [29/Jan/2024:10:54:03 +0000] "POST /api/v1/user/login HTTP/1.1" 500 51 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [29/Jan/2024:10:54:14 +0000] "POST /api/v1/user/login HTTP/1.1" 200 322 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [29/Jan/2024:11:52:03 +0000] "POST /api/v1/user/login HTTP/1.1" 200 172 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [29/Jan/2024:11:53:18 +0000] "POST /api/v1/user/login HTTP/1.1" 200 199 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [29/Jan/2024:12:24:52 +0000] "POST /api/v1/user/login HTTP/1.1" 500 67 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [29/Jan/2024:12:25:07 +0000] "POST /api/v1/user/registration HTTP/1.1" 500 60 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [29/Jan/2024:12:25:16 +0000] "POST /api/v1/user/login HTTP/1.1" 500 67 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [29/Jan/2024:12:26:46 +0000] "POST /api/v1/note/login HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [29/Jan/2024:12:27:41 +0000] "POST /api/v1/note/login HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [29/Jan/2024:12:30:44 +0000] "POST /api/v1/note/login HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [29/Jan/2024:12:30:57 +0000] "POST /api/v1/note/ HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [29/Jan/2024:12:32:21 +0000] "POST /api/v1/note/ HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [29/Jan/2024:12:33:02 +0000] "POST /api/v1/note/ HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [29/Jan/2024:12:34:37 +0000] "POST /api/v1/note/ HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [29/Jan/2024:17:29:01 +0000] "POST /api/v1/user/registration HTTP/1.1" 500 89 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [29/Jan/2024:17:29:11 +0000] "POST /api/v1/user/registration HTTP/1.1" 201 50 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [29/Jan/2024:17:29:19 +0000] "POST /api/v1/user/registration HTTP/1.1" 500 74 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [29/Jan/2024:17:29:40 +0000] "POST /api/v1/user/login HTTP/1.1" 200 199 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:05:47:20 +0000] "POST /api/v1/user/note HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:05:47:36 +0000] "POST /api/v1/user/note HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:05:49:07 +0000] "POST /api/v1/user/note HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:05:49:14 +0000] "POST /api/v1/note HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:00:26 +0000] "POST /api/v1/note HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:08:32 +0000] "POST /api/v1/Note HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:09:48 +0000] "POST /api/v1/note HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:09:58 +0000] "POST /api/v1/note HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:10:12 +0000] "POST /api/v1/ HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:10:14 +0000] "POST /api/v1/ HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:10:26 +0000] "POST /api/v1/note HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:16:21 +0000] "POST /api/v1/note HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:18:01 +0000] "POST /api/v1/note HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:18:03 +0000] "POST /api/v1/note HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:18:53 +0000] "POST /api/v1/note HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:18:57 +0000] "POST /api/v1/note HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:19:01 +0000] "POST /api/v1/ HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:19:11 +0000] "POST /api/v1/note HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:21:19 +0000] "POST /api/v1/note HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:24:16 +0000] "POST /api/v1/note/login HTTP/1.1" 500 67 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:24:59 +0000] "POST /api/v1/note/ HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:25:03 +0000] "POST /api/v1/note HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:28:18 +0000] "POST /api/v1/note HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:30:07 +0000] "POST /api/v1/note HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:30:53 +0000] "POST /api/v1/note HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:31:26 +0000] "POST /api/v1/note HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:31:37 +0000] "POST /api/v1/note HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:31:48 +0000] "POST /api/v1/note HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:31:53 +0000] "POST /api/v1/note/login HTTP/1.1" 500 67 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:32:10 +0000] "POST /api/v1/note/ HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:32:14 +0000] "POST /api/v1/note HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:33:44 +0000] "GET /api/v1/note HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:33:49 +0000] "POST /api/v1/note HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:35:17 +0000] "POST /api/v1/note HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:36:26 +0000] "POST /api/v1/notes HTTP/1.1" 201 285 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:36:35 +0000] "POST /api/v1/noteslogin HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:36:42 +0000] "POST /api/v1/notes/login HTTP/1.1" 200 41 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:37:51 +0000] "POST /api/v1/notes/login HTTP/1.1" 200 276 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:39:18 +0000] "POST /api/v1/notes/login HTTP/1.1" 200 276 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:40:11 +0000] "POST /api/v1/notes/login HTTP/1.1" 200 276 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:40:12 +0000] "POST /api/v1/notes/login HTTP/1.1" 200 276 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:40:50 +0000] "POST /api/v1/notes HTTP/1.1" 201 291 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:50:04 +0000] "POST /api/v1/notes HTTP/1.1" 201 291 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:50:11 +0000] "POST /api/v1/notes HTTP/1.1" 201 296 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:50:23 +0000] "POST /api/v1/notes/login HTTP/1.1" 200 276 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:50:59 +0000] "POST /api/v1/notes/login HTTP/1.1" 200 276 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:51:19 +0000] "POST /api/v1/notes/login HTTP/1.1" 200 276 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:52:48 +0000] "PATCH /api/v1/notes/login HTTP/1.1" 202 62 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:53:41 +0000] "PATCH /api/v1/notes/login HTTP/1.1" 500 55 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:55:05 +0000] "PATCH /api/v1/notes/login HTTP/1.1" 500 88 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:56:00 +0000] "PATCH /api/v1/notes/login HTTP/1.1" 500 88 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:57:41 +0000] "POST /api/v1/notes/login HTTP/1.1" 200 276 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:57:55 +0000] "PATCH /api/v1/notes/login HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:58:01 +0000] "PATCH /api/v1/notes/update HTTP/1.1" 500 88 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:06:59:25 +0000] "PATCH /api/v1/notes/update HTTP/1.1" 202 62 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:07:00:26 +0000] "PATCH /api/v1/notes/update HTTP/1.1" 202 62 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:07:00:34 +0000] "PATCH /api/v1/notes/update HTTP/1.1" 202 62 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:07:01:33 +0000] "PATCH /api/v1/notes/update HTTP/1.1" 500 88 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:07:03:08 +0000] "PATCH /api/v1/notes/update HTTP/1.1" 500 88 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:07:03:27 +0000] "PATCH /api/v1/notes/update HTTP/1.1" 500 88 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:07:03:28 +0000] "PATCH /api/v1/notes/update HTTP/1.1" 500 88 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:07:03:30 +0000] "PATCH /api/v1/notes/update HTTP/1.1" 500 88 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:07:03:57 +0000] "PATCH /api/v1/notes/update HTTP/1.1" 500 88 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:07:05:40 +0000] "PUT /api/v1/notes/update HTTP/1.1" 500 88 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:07:05:53 +0000] "PATCH /api/v1/notes/update HTTP/1.1" 500 88 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:07:07:47 +0000] "PATCH /api/v1/notes/update HTTP/1.1" 202 300 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:07:07:48 +0000] "PATCH /api/v1/notes/update HTTP/1.1" 202 300 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:07:08:03 +0000] "PATCH /api/v1/notes/update HTTP/1.1" 202 304 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:07:11:40 +0000] "DELETE /api/v1/notes/delete HTTP/1.1" 500 165 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:07:12:10 +0000] "DELETE /api/v1/notes/delete HTTP/1.1" 500 257 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:07:12:15 +0000] "DELETE /api/v1/notes/delete HTTP/1.1" 500 257 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:07:12:46 +0000] "DELETE /api/v1/notes/delete HTTP/1.1" 200 60 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:07:13:36 +0000] "DELETE /api/v1/notes/delete HTTP/1.1" 200 62 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:07:13:45 +0000] "DELETE /api/v1/notes/delete HTTP/1.1" 200 62 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:07:14:08 +0000] "DELETE /api/v1/notes/delete HTTP/1.1" 200 62 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:07:14:38 +0000] "DELETE /api/v1/notes/delete HTTP/1.1" 200 62 "-" "PostmanRuntime/7.36.1"
+
