@@ -2311,3 +2311,21 @@ error:
     method - POST 
     IP - ::1
    {"timestamp":"2024-01-31T06:08:13.882Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token h in JSON at position 19
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\91939\work_space\flowTest-project\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/user/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-31T07:01:07.832Z"}

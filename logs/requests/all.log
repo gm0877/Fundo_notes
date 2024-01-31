@@ -1032,3 +1032,43 @@ info: ::1 - - [31/Jan/2024:06:12:34 +0000] "GET /api/v1/user/login HTTP/1.1" 404
 
 info: ::1 - - [31/Jan/2024:06:12:39 +0000] "POST /api/v1/user/login HTTP/1.1" 200 534 "-" "PostmanRuntime/7.36.1"
 
+info: ::1 - - [31/Jan/2024:06:13:14 +0000] "POST /api/v1/user/login HTTP/1.1" 200 543 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [31/Jan/2024:06:15:55 +0000] "POST /api/v1/user/registration HTTP/1.1" 201 347 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [31/Jan/2024:06:16:09 +0000] "POST /api/v1/user/login HTTP/1.1" 200 550 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [31/Jan/2024:06:17:38 +0000] "POST /api/v1/user/userprofileid/65b9e59bc021a465f01416e8 HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [31/Jan/2024:06:17:45 +0000] "GET /api/v1/user/userprofileid/65b9e59bc021a465f01416e8 HTTP/1.1" 200 338 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [31/Jan/2024:06:45:29 +0000] "POST /api/v1/user/notes HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [31/Jan/2024:06:47:23 +0000] "POST /api/v1/user/notes HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [31/Jan/2024:06:48:49 +0000] "POST /api/v1/user/notes HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [31/Jan/2024:06:51:41 +0000] "POST /api/v1/user/notes HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [31/Jan/2024:06:52:31 +0000] "POST /api/v1/notes HTTP/1.1" 201 276 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [31/Jan/2024:06:54:50 +0000] "POST /api/v1/65b9ee2f20d7994e70bed09c HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [31/Jan/2024:06:54:56 +0000] "POST /api/v1/65b9ee2f20d7994e70bed09c HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [31/Jan/2024:06:55:23 +0000] "POST /api/v1/notes/65b9ee2f20d7994e70bed09c HTTP/1.1" 200 267 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [31/Jan/2024:06:55:38 +0000] "PATCH /api/v1/notes/65b9ee2f20d7994e70bed09c HTTP/1.1" 202 291 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [31/Jan/2024:06:55:45 +0000] "DELETE /api/v1/notes/65b9ee2f20d7994e70bed09c HTTP/1.1" 200 291 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [31/Jan/2024:06:57:46 +0000] "POST /api/v1/notes HTTP/1.1" 201 308 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [31/Jan/2024:07:01:41 +0000] "POST /api/v1/user/registration HTTP/1.1" 201 355 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [31/Jan/2024:07:01:54 +0000] "POST /api/v1/user/login HTTP/1.1" 200 558 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [31/Jan/2024:07:02:25 +0000] "POST /api/v1/user/login HTTP/1.1" 200 558 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [31/Jan/2024:07:02:50 +0000] "POST /api/v1/user/userprofileid/65b9f055f165c52b9067dcfe HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
