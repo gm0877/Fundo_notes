@@ -1012,3 +1012,23 @@ info: ::1 - - [31/Jan/2024:05:13:17 +0000] "GET /api/v1/user/profile/65b8c8c578f
 
 info: ::1 - - [31/Jan/2024:05:14:08 +0000] "GET /api/v1/user/profile/65b8c8c578fa8319804e23ac HTTP/1.1" 200 322 "-" "PostmanRuntime/7.36.1"
 
+info: ::1 - - [31/Jan/2024:06:06:28 +0000] "GET /api/v1/user/userid/65b8c8c578fa8319804e23ac HTTP/1.1" 200 322 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [31/Jan/2024:06:08:01 +0000] "POST /api/v1/user/registration HTTP/1.1" 500 90 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [31/Jan/2024:06:08:13 +0000] "POST /api/v1/user/registration HTTP/1.1" 500 89 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [31/Jan/2024:06:08:29 +0000] "POST /api/v1/user/registration HTTP/1.1" 201 335 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [31/Jan/2024:06:09:19 +0000] "POST /api/v1/user/login HTTP/1.1" 200 529 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [31/Jan/2024:06:10:30 +0000] "POST /api/v1/user/registration HTTP/1.1" 201 340 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [31/Jan/2024:06:10:55 +0000] "POST /api/v1/user/login HTTP/1.1" 200 534 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [31/Jan/2024:06:11:56 +0000] "GET /api/v1/user/userprofileid/65b9e45604b5522854837968 HTTP/1.1" 200 331 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [31/Jan/2024:06:12:34 +0000] "GET /api/v1/user/login HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [31/Jan/2024:06:12:39 +0000] "POST /api/v1/user/login HTTP/1.1" 200 534 "-" "PostmanRuntime/7.36.1"
+

@@ -33,7 +33,7 @@ export const loginUser = async (req, res, next) => {
     res.status(HttpStatus.OK).json({
       code: HttpStatus.OK,
       data: user,
-      message: 'Login successful'
+      message: 'Login needs Authorization'
     });
   } catch (error) {
     next(error);
