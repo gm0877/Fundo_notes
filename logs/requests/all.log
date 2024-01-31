@@ -968,3 +968,45 @@ info: ::1 - - [30/Jan/2024:08:53:38 +0000] "PATCH /api/v1/notes/update HTTP/1.1"
 
 info: ::1 - - [30/Jan/2024:09:15:12 +0000] "POST /api/v1/notes/read HTTP/1.1" 200 298 "-" "PostmanRuntime/7.36.1"
 
+info: ::1 - - [30/Jan/2024:10:00:13 +0000] "POST /api/v1/user HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:10:00:37 +0000] "POST /api/v1/user/registration HTTP/1.1" 201 50 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:10:02:14 +0000] "POST /api/v1/user/registration HTTP/1.1" 500 74 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:10:14:09 +0000] "POST /api/v1/user/login HTTP/1.1" 200 199 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:10:22:04 +0000] "POST /api/v1/user/login HTTP/1.1" 200 199 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:10:22:08 +0000] "POST /api/v1/user/login HTTP/1.1" 200 199 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:11:46:11 +0000] "GET /api/v1/user/login HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:11:56:49 +0000] "GET /api/v1/user/login HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [30/Jan/2024:11:57:12 +0000] "GET /api/v1/user/profile/mani@25 HTTP/1.1" 500 52 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [31/Jan/2024:04:57:41 +0000] "GET /api/v1/user/profile/mani@25 HTTP/1.1" 500 52 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [31/Jan/2024:05:01:49 +0000] "GET /api/v1/user/login HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [31/Jan/2024:05:02:00 +0000] "GET /api/v1/user/login HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [31/Jan/2024:05:02:15 +0000] "GET /api/v1/user/registration HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [31/Jan/2024:05:02:38 +0000] "POST /api/v1/user/login HTTP/1.1" 200 199 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [31/Jan/2024:05:04:19 +0000] "POST /api/v1/user/login HTTP/1.1" 500 240 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [31/Jan/2024:05:04:23 +0000] "POST /api/v1/user/login HTTP/1.1" 500 240 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [31/Jan/2024:05:07:52 +0000] "POST /api/v1/user/login HTTP/1.1" 200 199 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [31/Jan/2024:05:08:45 +0000] "POST /api/v1/user/profile/65b8c8c578fa8319804e23ac' HTTP/1.1" 404 47 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [31/Jan/2024:05:08:54 +0000] "GET /api/v1/user/profile/65b8c8c578fa8319804e23ac' HTTP/1.1" 500 52 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [31/Jan/2024:05:09:05 +0000] "GET /api/v1/user/profile/65b8c8c578fa8319804e23ac HTTP/1.1" 500 52 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [31/Jan/2024:05:13:17 +0000] "GET /api/v1/user/profile/65b8c8c578fa8319804e23ac HTTP/1.1" 500 52 "-" "PostmanRuntime/7.36.1"
+

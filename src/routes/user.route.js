@@ -14,6 +14,9 @@ router.post('/registration', newUserValidator, userController.newUser);
  //route to get a single user by their user id
  router.post('/login', userController.loginUser);
 
+ //route for authorization
+ router.get('/profile/:_id',userAuth,userController.getUser)
+
 // //route to update a single user by their user id
 // router.put('/:_id', userController.updateUser);
 

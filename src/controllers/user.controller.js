@@ -70,7 +70,7 @@ export const newUser = async (req, res, next) => {
     const data = await UserService.newUser(req.body);
     res.status(HttpStatus.CREATED).json({
       code: HttpStatus.CREATED,
-      //data: data,
+      data: data,
       message: 'User created successfully'
     });
   } catch (error) {

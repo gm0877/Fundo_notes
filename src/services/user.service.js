@@ -28,6 +28,7 @@ export const newUser = async (body) => {
 
   // Save the new user to the database
   const data = await newUser.save();
+  
 
   return data;
 };
@@ -44,8 +45,8 @@ export const loginUser = async (email, password) => {
   if (!isPasswordValid) {
     throw new Error('Invalid password');
   }
-  var token = jwt.sign({ eamil: 'saigudi2002@gmail.com' }, 'shhhhh');
-  return token;
+  const token=jwt.sign({user:{id: user._id}},process.env.JWT_SECRET,{expiresIn:'1h'});
+    return {user,token};
 };
 
 // update single user

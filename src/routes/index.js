@@ -12,7 +12,7 @@ const routes = () => {
   router.get('/', (req, res) => {
     res.json('Welcome mr.manikanta');
   });
-  //router.use('/user', userRoute);
+  router.use('/user', userRoute);
   
   router.use('/notes', noteRoute);
   return router;
