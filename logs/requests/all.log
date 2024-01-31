@@ -1010,3 +1010,5 @@ info: ::1 - - [31/Jan/2024:05:09:05 +0000] "GET /api/v1/user/profile/65b8c8c578f
 
 info: ::1 - - [31/Jan/2024:05:13:17 +0000] "GET /api/v1/user/profile/65b8c8c578fa8319804e23ac HTTP/1.1" 500 52 "-" "PostmanRuntime/7.36.1"
 
+info: ::1 - - [31/Jan/2024:05:14:08 +0000] "GET /api/v1/user/profile/65b8c8c578fa8319804e23ac HTTP/1.1" 200 322 "-" "PostmanRuntime/7.36.1"
+
