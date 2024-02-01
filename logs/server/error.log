@@ -2329,3 +2329,10 @@ error:
     method - POST 
     IP - ::1
    {"timestamp":"2024-01-31T07:01:07.832Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" is required 
+    url - /api/v1/user/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-01-31T08:17:09.467Z"}

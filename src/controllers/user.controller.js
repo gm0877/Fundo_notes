@@ -33,7 +33,7 @@ export const loginUser = async (req, res, next) => {
     res.status(HttpStatus.OK).json({
       code: HttpStatus.OK,
       data: user,
-      message: 'Login needs Authorization'
+      message: 'Authorization iis Required for logging In'
     });
   } catch (error) {
     next(error);
