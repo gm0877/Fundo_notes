@@ -5,7 +5,7 @@
       "title": "F App",
       "description": "CLI App API"
     },
-    "host": "localhost:2000",
+    "host": "localhost:3000",
     "basePath": "/api/v1/",
     "tags": [
       {
@@ -23,7 +23,7 @@
       "application/json"
     ],
     "paths": {
-      "/user": {
+      "/user/registration": {
         "post": {
           "tags": ["CLI"],
           "description": "create name...",
@@ -50,7 +50,7 @@
           }
         }
       },
-      "/login": {
+      "/user/login": {
         "post": {
           "tags": ["CLI"],
           "description": "login name...",

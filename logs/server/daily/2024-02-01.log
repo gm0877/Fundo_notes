@@ -14,3 +14,27 @@ info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-01T0
 info: Connected to the database. {"timestamp":"2024-02-01T05:23:45.732Z"}
 info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-01T05:24:26.567Z"}
 info: Connected to the database. {"timestamp":"2024-02-01T05:24:26.584Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-01T05:24:30.095Z"}
+info: Connected to the database. {"timestamp":"2024-02-01T05:24:30.111Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-01T06:20:55.514Z"}
+info: Connected to the database. {"timestamp":"2024-02-01T06:20:55.536Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-01T06:20:58.560Z"}
+info: Connected to the database. {"timestamp":"2024-02-01T06:20:58.582Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-01T06:22:03.858Z"}
+info: Connected to the database. {"timestamp":"2024-02-01T06:22:03.928Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/user/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-02-01T06:22:28.367Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" length must be at least 7 characters long 
+    url - /api/v1/user/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-02-01T06:23:10.369Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-01T06:24:05.726Z"}
+info: Connected to the database. {"timestamp":"2024-02-01T06:24:05.778Z"}
