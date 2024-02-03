@@ -9,10 +9,10 @@ const router = express.Router();
 //router.get('', NoteController.getAllNotes);
 
 //route to create a new Note
-router.post('/create/:_id', newNoteValidator, NoteController.newNote);
+router.post('/create', newNoteValidator, NoteController.newNote);
 
  //route to get a single Note by their Note id
- router.post('/read/:_id', NoteController.readNote);
+ router.get('/read/:_id', NoteController.readNote);
 
 // //route to update a single Note by their Note id
 router.patch('/update/:_id', NoteController.updateNote);

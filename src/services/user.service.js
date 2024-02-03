@@ -64,10 +64,10 @@ export const updateUser = async (_id, body) => {
 };
 
 // // delete single user
-// export const deleteUser = async (id) => {
-//   await User.findByIdAndDelete(id);
-//   return '';
-// };
+export const deleteUser = async (id) => {
+  await User.findByIdAndDelete(id);
+  return deleteUser;
+};
 
 // get single user
 export const getUser = async (id) => {

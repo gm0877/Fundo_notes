@@ -1,0 +1,632 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T07:19:36.641Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T07:19:36.666Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T07:22:01.346Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T07:22:01.365Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T07:22:10.137Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T07:22:10.162Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T07:22:23.497Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T07:22:23.513Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T07:22:33.130Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T07:22:33.167Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T07:22:46.873Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T07:22:46.903Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T07:23:22.126Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T07:23:22.156Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T07:26:12.187Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T07:26:12.207Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T07:28:25.036Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T07:28:25.061Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T07:29:49.327Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T07:29:49.350Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T07:29:54.390Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T07:29:54.416Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T07:31:37.023Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T07:31:37.048Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T07:32:48.447Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T07:32:48.478Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/user/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-02-02T08:27:10.209Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected string in JSON at position 73
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\91939\work_space\flowTest-project\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/user/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-02-02T08:28:03.057Z"}
+error: 
+    status - 500 
+    message - ValidationError: "email" is required 
+    url - /api/v1/user/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-02-02T08:28:09.525Z"}
+error: 
+    status - 500 
+    message - ValidationError: "email" is required 
+    url - /api/v1/user/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-02-02T08:28:31.781Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T08:36:39.996Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T08:36:40.019Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T08:36:42.984Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T08:36:43.003Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T08:36:46.689Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T08:36:46.708Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T08:36:55.659Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T08:36:55.678Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T08:37:23.625Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T08:37:23.646Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T08:40:22.271Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T08:40:22.338Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T08:40:25.400Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T08:40:25.425Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T08:45:59.613Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T08:45:59.647Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T08:46:11.489Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T08:46:11.519Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T08:48:34.191Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T08:48:34.223Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T08:48:40.052Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T08:48:40.077Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T08:48:56.986Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T08:48:57.009Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T08:49:02.815Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T08:49:02.848Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T08:49:11.976Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T08:49:11.995Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T08:49:14.763Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T08:49:14.789Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T08:49:55.550Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T08:49:55.585Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T08:50:02.167Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T08:50:02.194Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T08:50:35.555Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T08:50:35.589Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T08:58:47.894Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T08:58:47.925Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T08:58:50.963Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T08:58:50.985Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T08:59:01.191Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T08:59:01.214Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T09:05:43.802Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T09:05:43.823Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T09:05:56.633Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T09:05:56.657Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T09:06:51.298Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T09:06:51.330Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T09:06:55.259Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T09:06:55.283Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T09:07:01.068Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T09:07:01.089Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T09:07:20.489Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T09:07:20.542Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/user/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-02-02T09:20:37.263Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T09:35:15.219Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T09:35:15.246Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T09:35:21.084Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T09:35:21.116Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T09:35:47.565Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T09:35:47.584Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T09:36:03.844Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T09:36:03.865Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T09:36:33.254Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T09:36:33.287Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T09:44:54.534Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T09:44:54.553Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T09:44:59.015Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T09:44:59.043Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T09:45:05.054Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T09:45:05.073Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T09:45:11.800Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T09:45:11.833Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T09:45:24.261Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T09:45:24.289Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T09:46:26.912Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T09:46:26.934Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T09:46:34.079Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T09:46:34.102Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T09:46:55.340Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T09:46:55.356Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T09:46:58.682Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T09:46:58.703Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T09:47:01.264Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T09:47:01.287Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T09:47:11.801Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T09:47:11.825Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T09:47:45.496Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T09:47:45.523Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T09:49:30.258Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T09:49:30.282Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T09:50:23.981Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T09:50:24.001Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T09:50:53.579Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T09:50:53.622Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T09:51:07.173Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T09:51:07.192Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T09:53:09.826Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T09:53:09.848Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T09:56:15.741Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T09:56:15.765Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T09:58:10.568Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T09:58:10.587Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T09:59:02.865Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T09:59:02.886Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T10:00:52.321Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T10:00:52.345Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T10:01:08.155Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T10:01:08.182Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T10:01:31.457Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T10:01:31.486Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T10:01:39.617Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T10:01:39.639Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T10:01:49.984Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T10:01:50.004Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T10:01:52.860Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T10:01:52.883Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T10:02:31.518Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T10:02:31.542Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T10:02:41.717Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T10:02:41.733Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T10:03:03.134Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T10:03:03.154Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T10:03:05.903Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T10:03:05.927Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T10:04:20.391Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T10:04:20.415Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T10:06:34.437Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T10:06:34.459Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T10:06:37.311Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T10:06:37.334Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T10:08:46.063Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T10:08:46.087Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T10:08:54.249Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T10:08:54.282Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T10:12:49.302Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T10:12:49.323Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T10:12:53.154Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T10:12:53.184Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T10:13:09.580Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T10:13:09.609Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T10:13:16.117Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T10:13:16.141Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T10:14:39.430Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T10:14:39.449Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T10:14:51.503Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T10:14:51.533Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T10:14:58.455Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T10:14:58.489Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T10:15:06.574Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T10:15:06.597Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T10:15:43.237Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T10:15:43.261Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T10:15:45.473Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T10:15:45.495Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T10:15:50.628Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T10:15:50.657Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T10:17:02.932Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T10:17:02.952Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T10:17:07.121Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T10:17:07.150Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T10:18:03.375Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T10:18:03.401Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T10:18:07.424Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T10:18:07.444Z"}
+error: 
+    status - 500 
+    message - TypeError: UserService.deleteUser is not a function
+    at _callee6$ (C:\Users\91939\work_space\flowTest-project\src\controllers\/user.controller.js:108:23)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at deleteUser (C:\Users\91939\work_space\flowTest-project\src\controllers\/user.controller.js:106:24)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\91939\work_space\flowTest-project\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/user/delete/65bca7c016508310e024f276 
+    method - DELETE 
+    IP - ::1
+   {"timestamp":"2024-02-02T10:21:43.584Z"}
+error: 
+    status - 500 
+    message - TypeError: UserService.deleteUser is not a function
+    at _callee6$ (C:\Users\91939\work_space\flowTest-project\src\controllers\/user.controller.js:108:23)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at deleteUser (C:\Users\91939\work_space\flowTest-project\src\controllers\/user.controller.js:106:24)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\91939\work_space\flowTest-project\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/user/delete/65bca7c016508310e024f276 
+    method - DELETE 
+    IP - ::1
+   {"timestamp":"2024-02-02T10:21:51.820Z"}
+error: 
+    status - 500 
+    message - TypeError: UserService.deleteUser is not a function
+    at _callee6$ (C:\Users\91939\work_space\flowTest-project\src\controllers\/user.controller.js:108:23)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at deleteUser (C:\Users\91939\work_space\flowTest-project\src\controllers\/user.controller.js:106:24)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\91939\work_space\flowTest-project\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/user/delete/65bcc29ced13423c9cc87021 
+    method - DELETE 
+    IP - ::1
+   {"timestamp":"2024-02-02T10:23:57.745Z"}
+error: 
+    status - 500 
+    message - TypeError: UserService.deleteUser is not a function
+    at _callee6$ (C:\Users\91939\work_space\flowTest-project\src\controllers\/user.controller.js:108:23)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at deleteUser (C:\Users\91939\work_space\flowTest-project\src\controllers\/user.controller.js:106:24)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\91939\work_space\flowTest-project\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/user/delete/65bcc29ced13423c9cc87021 
+    method - DELETE 
+    IP - ::1
+   {"timestamp":"2024-02-02T10:24:07.496Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T10:25:28.465Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T10:25:28.486Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T10:25:56.354Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T10:25:56.376Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T10:26:00.063Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T10:26:00.078Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T10:26:07.123Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T10:26:07.154Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T10:37:10.480Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T10:37:10.502Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T10:42:35.800Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T10:42:35.826Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T10:50:33.870Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T10:50:33.894Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T10:55:39.244Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T10:55:39.259Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T10:56:43.260Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T10:56:43.283Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T11:00:58.808Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T11:00:58.829Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T11:01:33.582Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T11:01:33.601Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T11:02:07.153Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T11:02:07.177Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T11:02:24.470Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T11:02:24.500Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T11:02:48.974Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T11:02:49.004Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T11:02:51.588Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T11:02:51.611Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T11:02:56.307Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T11:02:56.342Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T11:03:10.647Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T11:03:10.681Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T11:03:41.456Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T11:03:41.480Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T11:03:53.490Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T11:03:53.514Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T11:04:30.154Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T11:04:30.174Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T11:07:46.875Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T11:07:46.894Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T11:07:56.960Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T11:07:56.984Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T11:07:59.877Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T11:07:59.899Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T11:08:03.584Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T11:08:03.608Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T11:08:08.961Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T11:08:08.994Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/create 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2024-02-02T11:08:51.700Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/create 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2024-02-02T11:09:26.556Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/create 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2024-02-02T11:10:34.030Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: jwt must be provided
+    at Object.verify (C:\Users\91939\work_space\flowTest-project\node_modules\jsonwebtoken\verify.js:53:17)
+    at _callee$ (C:\Users\91939\work_space\flowTest-project\src\middlewares\/auth.middleware.js:21:28)
+    at tryCatch (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\Users\91939\work_space\flowTest-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at userAuth (C:\Users\91939\work_space\flowTest-project\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\91939\work_space\flowTest-project\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91939\work_space\flowTest-project\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\91939\work_space\flowTest-project\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\91939\work_space\flowTest-project\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/notes/create 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-02-02T11:11:13.184Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T11:16:30.534Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T11:16:30.558Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T11:17:19.554Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T11:17:19.580Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T11:17:54.725Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T11:17:54.747Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T11:18:39.450Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T11:18:39.470Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T11:18:49.488Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T11:18:49.511Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T11:19:37.260Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T11:19:37.286Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T11:19:43.833Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T11:19:43.852Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T11:19:50.684Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T11:19:50.723Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T11:20:10.145Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T11:20:10.165Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T11:20:16.311Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T11:20:16.336Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T11:21:51.981Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T11:21:52.005Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T11:21:56.389Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T11:21:56.426Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/user/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-02-02T11:24:15.839Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T11:24:48.035Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T11:24:48.061Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T11:24:54.352Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T11:24:54.381Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" length must be at least 7 characters long 
+    url - /api/v1/user/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-02-02T11:25:23.748Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T11:25:46.741Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T11:25:46.767Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T11:25:50.090Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T11:25:50.107Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T11:25:55.776Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T11:25:55.804Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T11:26:01.797Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T11:26:01.822Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T11:26:05.309Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T11:26:05.330Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T11:26:08.740Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T11:26:08.760Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T11:35:02.459Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T11:35:02.477Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T11:35:34.059Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T11:35:34.080Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T11:35:42.917Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T11:35:42.941Z"}

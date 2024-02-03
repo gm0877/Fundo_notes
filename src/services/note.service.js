@@ -9,9 +9,9 @@ export const newNote = async (body) => {
   };
 
 // read
-export const readNote = async (body) => {
+export const readNote = async (id) => {
   // Finding the note with the given title
-  const note = await Note.findOne({ title: body.title  });
+  const note = await Note.findById( id);
   return note;
 };
 //update
